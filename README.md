@@ -10,7 +10,7 @@ Github fue comprada por *Microsoft* en el año 2018
 2. Elementos que se pueden añadir
    - Imagenes
    - Comentarios
-
+![Imagen de la empresa detras de GitHub]()
 <!---
 AntonioSocias/AntonioSocias is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
